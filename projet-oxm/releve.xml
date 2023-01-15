@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve rib="134298379475">
+    <dateReleve>2022-12-25T12:26:55.908+01:00</dateReleve>
+    <solde>6740.0</solde>
+    <operations dateDebut="2022-12-25T12:26:55.910+01:00" dateFin="2022-12-25T12:26:55.910+01:00">
+        <operations type="credit" date="2022-12-25T12:26:55.914+01:00" montant="3478.0" description="description1"/>
+        <operations type="debit" date="2022-12-25T12:26:55.914+01:00" montant="5678.0" description="description2"/>
+        <operations type="debit" date="2022-12-25T12:26:55.914+01:00" montant="120.0" description="description3"/>
+        <operations type="credit" date="2022-12-25T12:26:55.914+01:00" montant="1789.0" description="description4"/>
+    </operations>
+</releve>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "file:/C:/Users/isicod/Desktop/Master/semestre%201/Module%20web%20services/Projet%20WS/Technologie%20XML/releve.dtd">
+<releve rib="011112222333344445555666">
+    <dateReleve>2021-11-10</dateReleve>
+    <solde>14500</solde>
+    <operations dateDebut="2021-01-01" dateFin="2021-01-30">
+        <operation type="credit" date="2021-01-01" montant="9000" description="Vers Espèce"></operation>
+        <operation type="debit" date="2021-01-11" montant="3400" description="Virement" ></operation>
+        <operation type="debit" date="2021-01-15" montant="120" description="Assurance"></operation>
+        <operation type="credit" date="2021-01-25" montant="70000" description="Cheque"></operation>
+    </operations>
+</releve>
